@@ -10,5 +10,6 @@ namespace ViewModel
     {
         public string Name { get; set; }
         public string URI { get; set; }
+        public int blobID {get; set; }
     }
 }
